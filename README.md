@@ -1,14 +1,14 @@
-# OpenManus
+# AI-System Browser
 
 ## Überblick
 
-OpenManus ist ein Open-Source-KI-Agenten-System für Debian/Ubuntu, das die Kernfunktionalitäten von Manus AI nachbildet. Das Projekt zielt darauf ab, eine vollständig kostenlose Alternative zu entwickeln, die auf lokalen Ressourcen (CPU/RAM) basiert und keine Cloud-APIs oder dedizierte GPUs erfordert.
+AI-System Browser ist ein Open-Source-KI-Agenten-System für Debian/Ubuntu, das fortschrittliche AI-Funktionalitäten nachbildet. Das Projekt zielt darauf ab, eine vollständig kostenlose Alternative zu entwickeln, die auf lokalen Ressourcen (CPU/RAM) basiert und keine Cloud-APIs oder dedizierte GPUs erfordert.
 
 ## Hauptfunktionen
 
 - **Autonome Aufgabenverwaltung**: Interpretation komplexer Anweisungen, Zerlegung in Unterschritte und Orchestrierung der Ausführung
 - **Sandbox-Umgebung**: Sichere Ausführung von Code (Python, Node.js) und Shell-Befehlen mit Dateisystemzugriff
-- **Integrierter Browser**: Steuerung eines Webbrowsers für Recherche, Interaktion und Transaktionen (ähnlich dem Comet Browser)
+- **Integrierter Browser**: Steuerung eines Webbrowsers für Recherche, Interaktion und Transaktionen
 - **Mediengenerierung**: Kostenlose, RAM-basierte Bilderzeugung
 - **Multi-modale Fähigkeiten**: Verarbeitung und Erstellung von Text, Code, Daten und Bildern
 
@@ -34,7 +34,7 @@ OpenManus ist ein Open-Source-KI-Agenten-System für Debian/Ubuntu, das die Kern
 
 ## Dokumentation
 
-Dieses Repository enthält umfassende Planungsdokumente für das OpenManus-Projekt:
+Dieses Repository enthält umfassende Planungsdokumente für das Projekt:
 
 - **Umfassender Plan**: Detaillierte Beschreibung der Architektur und Implementierung
 - **Technisches Konzept**: Architekturbersicht und Komponentenbeschreibung
@@ -45,7 +45,7 @@ Dieses Repository enthält umfassende Planungsdokumente für das OpenManus-Proje
 
 Das Projekt befindet sich derzeit in der Planungs- und Konzeptionsphase. Die Dokumentation umfasst:
 
-1. Funktionsanalyse von Manus AI
+1. Funktionsanalyse
 2. Architekturbersicht
 3. Technologie-Auswahl und -Begründung
 4. Machbarkeitsstudie zur CPU-basierten Bilderzeugung
@@ -53,8 +53,12 @@ Das Projekt befindet sich derzeit in der Planungs- und Konzeptionsphase. Die Dok
 
 ## Lizenz
 
-Dieses Projekt ist als Open-Source-Initiative geplant.
+MIT License - siehe [LICENSE](LICENSE) Datei für Details.
+
+## Beitragen
+
+Beiträge sind willkommen! Bitte öffnen Sie ein Issue oder einen Pull Request.
 
 ## Hintergrund
 
-Das Projekt wurde als Alternative zu Manus AI entwickelt, um die Kosten für die Pro-Version zu vermeiden und gleichzeitig volle Kontrolle über das System zu behalten.
+Das Projekt wurde als kostenlose Open-Source-Alternative entwickelt, um volle Kontrolle über das System zu behalten und gleichzeitig fortschrittliche AI-Agenten-Funktionalitäten bereitzustellen.
